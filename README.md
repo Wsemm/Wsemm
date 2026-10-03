@@ -3,7 +3,7 @@
 # Hi there, I'm Waseem Dawoodi 👋
 ### 🚀 Mobile Application Engineer | Flutter & Cross-Platform Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseem-dawoodi-a60480263/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseem-dawoodi-a604802b3/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://wsemm.github.io/Wsemm.githup.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waseem.dawoodi2001@gmail.com)
 [![GitHub Visitors](https://komarev.com/ghpvc/?username=Wsemm&color=02569B&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Wsemm)
